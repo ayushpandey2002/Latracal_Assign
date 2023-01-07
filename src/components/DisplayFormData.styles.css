@@ -1,0 +1,35 @@
+.container{
+    justify-content: center;
+    align-items: center;
+}
+.studentcount{
+    padding: 10px;
+}
+.date{
+    padding: 20px;
+    padding-right: 100px;
+}
+
+.checkout{
+    padding: 80px;
+}
+.row{
+    
+    display: flex;
+    justify-content: center;
+    background-color: aliceblue;
+    align-items: center;
+    }
+.upperrow{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(74, 131, 150);
+    align-items: center;
+    }
+.lowerrow {
+            height: 30vh;
+                display: flex;
+                justify-content: center;
+                background-color: rgb(108, 195, 224);
+                align-items: center;
+        }
